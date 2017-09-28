@@ -13,8 +13,9 @@ int main() {
   count = 0;
   string item;
   char i;
+   cout<<"==GROCERY LIST MANAGER=="<<endl;
   do {
-     cout<<"==GROCERY LIST MANAGER=="<<endl;
+
       cout<<"Enter your choice: "<<endl;
       cout<<" (A)dd an item"<<endl;
       cout<<" (S)how grocery list"<<endl;
